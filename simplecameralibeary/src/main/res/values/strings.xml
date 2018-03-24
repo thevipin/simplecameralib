@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCameraLibeary</string>
+    <string name="unsupported_camera">Unsupported Camera</string>
+    <string name="permission_denied">Access Denied</string>
+</resources>
